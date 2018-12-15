@@ -1,0 +1,2 @@
+b'               DiskRead,  TimeStamp,     Process Name ( PID),   ThreadID,             IrpPtr,   ByteOffset,     IOSize, ElapsedTime,  DiskNum, IrpFlags, DiskSvcTime, I/O Pri,  VolSnap,         FileObject, FileName\r\n'
+b'              DiskWrite,  TimeStamp,     Process Name ( PID),   ThreadID,             IrpPtr,   ByteOffset,     IOSize, ElapsedTime,  DiskNum, IrpFlags, DiskSvcTime, I/O Pri,  VolSnap,         FileObject, FileName\r\n'
