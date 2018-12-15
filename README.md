@@ -1,6 +1,27 @@
 # f18_cs534
 
-Contents from ML project\
+Machine Learning, CS534, Joyce Ho, Project Content
+
+Pranav Bhandaripranav.bhandari@emory.edu
+Department of Computer Science
+Emory University
+Atlanta, GA 30322, USA
+
+Brandon C. Henley
+brandon.c.henley@emory.edu
+Department of Neurology
+Emory University
+Atlanta, GA 30322, USA
+
+Ana Noriega
+ananori@emory.edu
+Department of Computer Science
+Emory University
+Atlanta, GA 30322, USA
+
+Workload labels like user and web have traditionally represented distinct characteristicsof workloads. For instance, an archival workload often refers to a workload with a high writeto read ratio. Loose guidelines like high write to read ratio can lead to loss of generality as itcan be interpreted differently depending on the data source.  This means that traces sharingthe same labels can have distinct features.  We evaluate the labels to see how well theydifferentiate workloads from different sources based on features commonly used in block I/Oworkload characterization.  We see that the labels differentiate workloads from the samesource while they struggle to distinguish workloads coming from a different source.  Thislack of generality combined with the labels not being representative of workload featuressignifies the need for a robust feature based workload characterization framework.  We ranpreliminary experiments to come up with new labels that are representative of the featuresof the workload and got 100% accuracy even when the test data came from a data sourcenot used for training.
+
+CONTENT:
 
 - CNN directory contains the code and data for the CNN
 
