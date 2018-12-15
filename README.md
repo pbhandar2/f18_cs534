@@ -32,3 +32,7 @@ Contents from ML project\
 - Feature Extractor
 
 	scripts to bin the data and extract basic features 
+
+- 30Minute_Binned_Data.zip
+
+	feature extracted from 30 Minute bin data
